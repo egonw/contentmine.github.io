@@ -7,7 +7,7 @@ title: Linux Installation
 ## getpapers
 Download npm and node using your package manager.
 
-> On Ubuntu and Debian npm come packaged with the `nodejs` package. You must also install `nodejs-legacy` to get the executable named `node`.
+> On Ubuntu and Debian npm come packaged with the `npm` package. You must also install `nodejs-legacy` to get the executable named `node`.
 
 run `npm install --global getpapers` either as root or with sudo enabled
 
